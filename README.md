@@ -1,0 +1,9 @@
+cd C:\Users\daria\astro_bot
+git init
+git remote add origin https://github.com/PavelAvt/astro-bot.git
+git add .
+git commit -m "Первый коммит"
+git push -u origin master
+git add requirements.txt
+git commit -m "Добавлен requirements.txt"
+git push
